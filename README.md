@@ -2,7 +2,7 @@
 
 I am
 
-### Anjaan Khadka
+## Anjaan Khadka
 
 A Developer and Designer.<br><br><br>
 
@@ -13,8 +13,8 @@ I like to work on
 - Developing applications in **Java and Python**
 - Training / Developing models in various **AI / ML models**
 - Data analysis and processing.
-- Problem Solving and Critical thinking
+- Problem Solving and Critical thinking<br><br>
 
-![Anjaan's github stats](https://github-readme-stats.vercel.app/api?username=AnjaanKhadka&show_icons=true&theme=tokyonight&custom_title=My+Github+stats+in+a+nutshell)
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaanKhadka&hide=css,html&layout=compact&theme=tokyonight&custom_title=My+Prefered+Languages)
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnjaanKhadka&show_icons=true&theme=tokyonight&custom_title=My+Github+stats+in+a+nutshell&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaanKhadka&hide=css,html&layout=compact&theme=tokyonight&custom_title=My+Prefered+Languages&hide_border=true" /></a> |
+| ------------- | ------------- |
