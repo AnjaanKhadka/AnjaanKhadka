@@ -16,5 +16,5 @@ I like to work on
 - Problem Solving and Critical thinking<br><br>
 
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnjaanKhadka&show_icons=true&theme=tokyonight&custom_title=My+Github+stats+in+a+nutshell&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaanKhadka&hide=css,html&layout=compact&theme=tokyonight&custom_title=My+Prefered+Languages&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnjaanKhadka&show_icons=true&theme=buefy&custom_title=My+Github+stats+in+a+nutshell&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaanKhadka&hide=css,html&layout=compact&theme=buefy&custom_title=My+Prefered+Languages&hide_border=true" /></a> |
 | ------------- | ------------- |
