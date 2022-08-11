@@ -4,7 +4,13 @@ I am
 
 ## Anjaan Khadka
 
-A Developer and Designer.<br><br><br>
+A Developer and Designer.
+
+Contact me at :
+
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njn6171@gmail.com) [![Linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjaan-khadka)
+
+<br><br>
 
 I like to work on
 
@@ -15,6 +21,5 @@ I like to work on
 - Data analysis and processing.
 - Problem Solving and Critical thinking<br><br>
 
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnjaanKhadka&show_icons=true&theme=buefy&custom_title=My+Github+stats+in+a+nutshell&hide_border=true" alt="Anjaan's github stats"> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaanKhadka&hide=css,html&layout=compact&theme=buefy&custom_title=My+Prefered+Languages&hide_border=true">|
-| ------------- | ------------- |
+| ![image](https://github-readme-stats.vercel.app/api?username=AnjaanKhadka&show_icons=true&theme=buefy&custom_title=My+Github+stats+in+a+nutshell&hide_border=true) | ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaanKhadka&layout=compact&theme=buefy&custom_title=My+Prefered+Languages&hide_border=true)  |
+| ---- | --- |
