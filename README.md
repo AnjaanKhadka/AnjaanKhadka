@@ -1,6 +1,10 @@
 # Hi there 👋
 
-I am Anjaan Khadka, Developer and Designer.
+I am
+
+### Anjaan Khadka
+
+A Developer and Designer.
 
 I like to work on
 
@@ -14,4 +18,3 @@ I like to work on
 ![Anjaan's github stats](https://github-readme-stats.vercel.app/api?username=AnjaanKhadka&show_icons=true&theme=tokyonight&custom_title=My+Github+stats+in+a+nutshell)
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaanKhadka&hide=css,html&layout=compact&theme=tokyonight&custom_title=My+Prefered+Languages)
-
