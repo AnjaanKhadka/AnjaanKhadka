@@ -14,10 +14,9 @@ Contact me at :
 
 I like to work on
 
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Django**
-- Developing applications in **Java and Python**
 - Training / Developing models in various **AI / ML models**
+- Web development using **HTML, JS, CSS, React**
+- Developing applications in **Java and Python**
 - Data analysis and processing.
 - Problem Solving and Critical thinking<br><br>
 
